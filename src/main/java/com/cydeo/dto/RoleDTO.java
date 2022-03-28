@@ -11,6 +11,6 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 public class RoleDTO {
 
-    private String id;
+    private Long id;
     private String description;
 }
